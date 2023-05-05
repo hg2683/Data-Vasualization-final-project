@@ -1,0 +1,8 @@
+Breed,Classification,obey,reps_lower,reps_upper
+Poodle,Brightest Dogs,95%,1,4
+German Shepherd,Brightest Dogs,95%,1,4
+Golden Retriever,Brightest Dogs,95%,1,4
+Labrador Retriever,Brightest Dogs,95%,1,4
+French Bulldog,Fair Working/Obedience Intelligence,30%,41,80
+Beagle,Lowest Degree of Working/Obedience Intelligence ,10%,81,100
+Bulldog,Lowest Degree of Working/Obedience Intelligence ,10%,81,100
